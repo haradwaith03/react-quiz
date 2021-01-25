@@ -4,6 +4,8 @@ This is the first quiz created at 'Imersao Alura' class.
 
 Harry Potter Quiz
 
+<img src = https://github.com/haradwaith03/react-quiz/blob/main/Capturar.PNG>
+
 ## Deploy your own
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
