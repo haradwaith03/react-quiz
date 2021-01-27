@@ -4,6 +4,8 @@ import Widget from '../src/components/Widget';
 import Footer from '../src/components/Footer';
 import GitHubCorner from '../src/components/GitHubCorner';
 import QuizBackground from '../src/components/QuizBackground';
+import Button from '../src/components/Button';
+import Input from '../src/components/Input'
 
 const Title = styled.h1`
   font-size: 50px;
