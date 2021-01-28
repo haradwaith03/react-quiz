@@ -123,7 +123,7 @@ export default function QuizPage() {
   }
 
   return (
-    <QuizBackground backgroundImage={db.bg}>
+    <QuizBackground backgroundImage={db.quizImage}>
       <QuizContainer>
         {screenState === screenStates.QUIZ && (
           <QuestionWidget
