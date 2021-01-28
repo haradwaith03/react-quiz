@@ -1,24 +1,38 @@
 {
   "bg": "https://media.sketchfab.com/models/bde62298ac8640588d5a2928b8e113dc/thumbnails/cea9e18e2bc84efdab1c881a6e6d82c6/a778dd7953b34ab9b9bc92dc2a499598.jpeg",
   "headerHP": "https://data.whicdn.com/images/290974356/original.jpg",
+  "quizImage": "https://wallpapercave.com/wp/wp7316242.jpg",
   "title": "Quiz Harry Potter",
   "description": "Teste os seus conhecimentos sobre o mundo mágico de Harry Potter!",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
+      "image": "https://i.pinimg.com/originals/12/bc/91/12bc91f4d65d8e0b1016d145422ff9f0.gif",
+      "title": "O que é um ofidioglota?",
       "description": "Essa é pra aquecer",
-      "answer": 2,
-      "alternatives": [".elemento", "*elemento", "#elemento", "%elemento"]
+      "answer": 3,
+      "alternatives": ["Quem não é bruxo", "Quem coleciona cobras", "Quem tem amor por cobras", "Quem fala com cobras"]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
+      "image": "https://pa1.narvii.com/6303/f16bc77e59340f0cb833eba227d2f57ebc684948_hq.gif",
+      "title": "Qual o verdadeiro nome do Lord das Trevas?",
       "description": "Faz tempo em haha",
+      "answer": 1,
+      "alternatives": [
+        "James Thiago Riddle",
+        "Tom Marvolo Riddle",
+        "Voldemorte"
+      ]
+    },
+    {
+      "image": "https://miro.medium.com/max/1000/0*n-0z_C_hpWQQAL58.gif",
+      "title": "Qual o nome do fantasma da Sonserina?",
+      "description": "Difícil de lembrar? :p",
       "answer": 0,
       "alternatives": [
-        "background: linear-gradient(#e66465, #9198e5);",
-        "background: gradient(#e66465, #9198e5);"
+        "Pirraça",
+        "Murta que geme",
+        "Nick Quase Sem Cabeça",
+        "Dama Cinzenta"
       ]
     }
   ],
