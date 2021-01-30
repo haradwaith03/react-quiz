@@ -34,9 +34,23 @@
         "Nick Quase Sem Cabeça",
         "Dama Cinzenta"
       ]
+    },
+    {
+      "image": "https://i.gifer.com/4n9.gif",
+      "title": "De qual madeira é feita a varinha de Rony Weasley?",
+      "description": "E agor??",
+      "answer": 2,
+      "alternatives": [
+        "Azevinho",
+        "Mogno",
+        "Salgueiro",
+        "Cerejeira"
+      ]
     }
   ],
-  "external": [""],
+  "external": ["https://aluraquiz-base.alura-challenges.vercel.app/",
+  "https://aluraquiz-css.omariosouto.vercel.app/",
+"https://aluraquiz-devsoutinho.omariosouto.vercel.app/"],
   "theme": {
     "colors": {
       "primary": "#7c4a00",
